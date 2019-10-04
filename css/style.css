@@ -17,11 +17,18 @@ section#welcome-section>h1 {
 }
 
 section#projects {
+    padding-top: 20%;
     width: 100%;
-    height: 50vh;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
 }
 
 section#contact {
     width: 100%;
-    height: 50vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
