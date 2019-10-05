@@ -12,7 +12,7 @@ section#welcome-section {
     color: white;
 }
 
-section#welcome-section > h1 {
+section#welcome-section>h1 {
     font-size: 4em;
 }
 
